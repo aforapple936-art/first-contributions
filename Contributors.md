@@ -25,6 +25,7 @@
 -[Pablo Ribeiro](https://github.com/PabLoSWeB)
 [DEVORA KELETI](https://github.com/dvori27385)
 -[Rajalakshmi K](https://github.com/rajideepa2009-ui)
+  [Surya Teja Karri](https://github.com/aforapple936-art/Hackbro.git) -- I'm Surya and this is my first contribution
 -[Youssef Halawany](https://github.com/y0usefhalawany)
 -[cucumba44](https://github.com/cucumba44/first-contributions)
 -[THEMANnt](https://github.com/THEMANnt/first-contributions)-hello there
